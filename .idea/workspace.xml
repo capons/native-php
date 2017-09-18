@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7cad59f-e484-402b-83dd-c638ccf0cca2" name="Default" comment="" />
+    <list default="true" id="d7cad59f-e484-402b-83dd-c638ccf0cca2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/constant.php" afterPath="$PROJECT_DIR$/app/config/constant.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/route.php" afterPath="$PROJECT_DIR$/app/config/route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/controller/Controller.php" afterPath="$PROJECT_DIR$/app/system/action/controller/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/exception/CustomException.php" afterPath="$PROJECT_DIR$/app/system/action/exception/CustomException.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/url/Route.php" afterPath="$PROJECT_DIR$/app/system/action/url/Route.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/url/UrlLoad.php" afterPath="$PROJECT_DIR$/app/system/action/url/UrlLoad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/url/UrlParser.php" afterPath="$PROJECT_DIR$/app/system/action/url/UrlParser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/system/action/view/View.php" afterPath="$PROJECT_DIR$/app/system/action/view/View.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/index.php" afterPath="$PROJECT_DIR$/app/view/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/Controller/UserController.php" afterPath="$PROJECT_DIR$/app/web/Controller/UserController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/web/Model/User.php" afterPath="$PROJECT_DIR$/app/web/Model/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="test.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,14 +39,17 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="271" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,8 +76,8 @@
         <option value="$PROJECT_DIR$/app/web/Controller/UserController.php" />
         <option value="$PROJECT_DIR$/app/config/route.php" />
         <option value="$PROJECT_DIR$/app/system/action/exception/CustomException.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/app/system/action/url/UrlLoad.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -108,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,12 +146,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
@@ -201,12 +218,16 @@
       <workItem from="1503939015935" duration="994000" />
       <workItem from="1503988140737" duration="11946000" />
       <workItem from="1504011527467" duration="598000" />
-      <workItem from="1504021113672" duration="10000" />
+      <workItem from="1504021113672" duration="12324000" />
+      <workItem from="1504103277794" duration="52000" />
+      <workItem from="1504202564941" duration="20000" />
+      <workItem from="1504202723940" duration="4000" />
+      <workItem from="1504283065826" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22525000" />
+    <option name="totallyTimeSpent" value="34961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="21" width="1309" height="747" extended-state="6" />
@@ -249,6 +270,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3285">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="271" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -328,7 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -385,14 +421,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="271" selection-end-column="20" />
           <folding />
         </state>
       </provider>
