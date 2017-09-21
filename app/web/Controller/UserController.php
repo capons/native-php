@@ -10,4 +10,10 @@ class UserController extends Controller
         $this->view->dataOne = $id;
         return $this->view->render();
     }
+    
+    public function socket()
+    {
+        print_r('ok');
+        die();
+    }
 }
